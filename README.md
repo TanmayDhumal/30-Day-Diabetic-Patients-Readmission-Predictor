@@ -107,8 +107,8 @@ Age: 35 · Male · Glucose Normal · A1C None · Insulin: No · 2 outpatient vis
 
 ## 📬 Contact
 
-**Saaransh Johri** — MIT World Peace University, Pune
-saaransh.johri@mitwpu.edu.in
+**Tanmay Dhumal** — MIT World Peace University, Pune
+tanmay.dhumal@mitwpu.edu.in
 
 ---
 
