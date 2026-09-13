@@ -76,7 +76,7 @@ faster, more maintainable single-file deployment.
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/SaaranshJohri/30-Day-Diabetic-Patients-Readmission-Predictor
+git clone https://github.com/TanmayDhumal/30-Day-Diabetic-Patients-Readmission-Predictor
 cd 30-Day-Diabetic-Patients-Readmission-Predictor
 
 python -m venv venv
